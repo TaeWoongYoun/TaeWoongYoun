@@ -1,13 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=I'm%20Developer&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
 <br/>
-
+현재 사용하는 웹 언어
 <div style="display:flex; flex-direction:row;">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-    badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 
+기타 언어
 </div> <br/> <br/>
 <div style="display:flex; flex-direction:row;">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> 
