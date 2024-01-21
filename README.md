@@ -16,6 +16,8 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xodnd0507&show_icons=true&locale=en" alt="xodnd0507" /></p>
+
 <!--
 **xodnd0507/xodnd0507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
