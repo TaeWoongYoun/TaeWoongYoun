@@ -20,8 +20,6 @@
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
 </div>
 
-(https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome,to-Github!👋)](https://git.io/typing-svg)
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xodnd0507&show_icons=true&locale=en" alt="xodnd0507" /></p>
 
 <!--
