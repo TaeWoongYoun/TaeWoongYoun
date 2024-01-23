@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 
 
-</div> <br/> <br/>
+</div> <br/>
 기타 공부중인 것
 <div style="display:flex; flex-direction:row;">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"> 
