@@ -26,7 +26,7 @@
 
 <br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xodnd0507&show_icons=true&locale=en&count_private=true&custom_title=My_github&bg_color=left,670FDF,B678C4" alt="xodnd0507" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xodnd0507&show_icons=true&locale=en&count_private=true&custom_title=My_github&bg_color=left,670FDF,B678C4&title_color=FFF&text_color=FFF&icon_color=FFF" alt="xodnd0507" /></p>
 
 <!--
 **xodnd0507/xodnd0507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
