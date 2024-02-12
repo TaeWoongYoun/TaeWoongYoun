@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=I'm%20Developer&fontSize=70&color=0:670FDF,100:b678c4&stroke=670FDF)
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=I'm%20Developer&fontSize=70&color=0:670FDF,100:b678c4&stroke=670FDF&fontColor=FFF)
 
 <br/>
 현재 사용하는 웹 언어
