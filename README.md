@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=E34F26">
 <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=1572B6">
 <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=PHP&logoColor=blue">
 <img src="https://img.shields.io/badge/jQuery-black?style=for-the-badge&logo=jQuery&logoColor=0769AD">
 <img src="https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=7952B3">
 </div> <br/>
