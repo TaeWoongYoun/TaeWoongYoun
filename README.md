@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/jQuery-black?style=for-the-badge&logo=jQuery&logoColor=0769AD">
 <img src="https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=7952B3">
 </div> <br/>
-기타 공부중인 것
+기타 배우는 것
 <div style="display:flex; flex-direction:row;">
 <img src="https://img.shields.io/badge/Oracle-black?style=flat-square&logo=Oracle&logoColor=F80000"> 
 <img src="https://img.shields.io/badge/python-black?style=flat-square&logo=python&logoColor=#3776AB"> 
