@@ -15,12 +15,9 @@
 </div> <br/>
 기타
 <div style="display:flex; flex-direction:row;">
-<img src="https://img.shields.io/badge/Oracle-black?style=flat-square&logo=Oracle&logoColor=F80000"> 
 <img src="https://img.shields.io/badge/python-black?style=flat-square&logo=python&logoColor=#3776AB"> 
 <img src="https://img.shields.io/badge/C언어-black?style=flat-square&logo=c&logoColor=00599C">
 <br/>
-<img src="https://img.shields.io/badge/VisualStudio-black?style=flat-square&logo=VisualStudio&logoColor=5C2D91">
-<img src="https://img.shields.io/badge/VScode-black?style=flat-square&logo=VisualStudioCode&logoColor=007ACC">
 <img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white">
 <img src="https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=white"> 
 <img src="https://img.shields.io/badge/git-black?style=flat-square&logo=git&logoColor=F05032"> 
