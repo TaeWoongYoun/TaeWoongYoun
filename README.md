@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=Developer&fontSize=70&color=0:74EBD5,100:acb6E5&stroke=74EBD5&fontColor=000)
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=Developer&fontSize=70&color=0:000,100:920800&stroke=FFF&fontColor=000)
 
 <br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TaeWoongYoun&show_icons=true&locale=en&count_private=true&custom_title=My%20github&bg_color=35,74EBD5,acb6e5&title_color=FFF&text_color=FFF&icon_color=FFF" alt="xodnd0507" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TaeWoongYoun&show_icons=true&locale=en&count_private=true&custom_title=My%20github&bg_color=35,000000,920800&title_color=FFF&text_color=FFF&icon_color=FFF" alt="xodnd0507" /></p>
 
 <br/>
 웹스킬
