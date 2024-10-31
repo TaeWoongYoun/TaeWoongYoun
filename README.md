@@ -1,45 +1,50 @@
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+# 👋 Hello! Welcome to My GitHub Profile
+<p align="center">  
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub Contributions" />
+</p>
 
-<!--
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=Developer&fontSize=70&color=0:000,100:920800&stroke=FFF&fontColor=000)
--->
+---
 
-<!--
-<br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TaeWoongYoun&show_icons=true&locale=en&count_private=true&custom_title=My%20github&bg_color=35,000000,920800&title_color=FFF&text_color=FFF&icon_color=FFF" alt="xodnd0507" /></p>
--->
+## 🚀 수상 경력
+- **금메달**: 인천지방기능경기대회 웹 디자인 및 개발 직종
+- **장려상**: 전국기능경기대회 웹 디자인 및 개발 직종
 
-<!--<br/>
-웹스킬
+---
+
+## 🏢 경력 사항
+- **2023년 8월 ~ 현재**: 두나정보기술 소프트웨어 개발자
+
+---
+
+## 🛠️ Skills
+
+### 🌐 Web Development
 <div style="display:flex; flex-direction:row;">
-<img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=E34F26">
-<img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=1572B6">
-<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=PHP&logoColor=blue">
-<img src="https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=7952B3">
-</div> <br/>
-기타
-<div style="display:flex; flex-direction:row;">
-<img src="https://img.shields.io/badge/python-black?style=flat-square&logo=python&logoColor=#3776AB"> 
-<img src="https://img.shields.io/badge/C언어-black?style=flat-square&logo=c&logoColor=00599C">
-<br/>
-<img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white">
-<img src="https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=white"> 
-<img src="https://img.shields.io/badge/git-black?style=flat-square&logo=git&logoColor=F05032"> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> <br>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white">
+  <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 </div>
--->
 
-<!--
-**xodnd0507/xodnd0507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 기타 스킬
+<div style="display:flex; flex-direction:row;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Contact Me
+- 📧 **Email**: 24457545yong@gmail.com
+- 📸 **Instagram**: [xo._.dnd](https://instagram.com/xo._.dnd)
+
+---
+
+## 🌱 About Me
+**"1일 1커밋을 목표로 성실히 성장하는 개발자입니다."**  
+프로젝트 관리, 웹 개발, AI 등 다양한 분야에 도전하고 있으며, 끊임없이 배우며 성장하고 있습니다.
