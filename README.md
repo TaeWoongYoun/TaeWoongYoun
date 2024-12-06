@@ -1,21 +1,4 @@
-# 👋 Hello! Welcome to My GitHub Profile
-<p align="center">  
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub Contributions" />
-</p>
-
----
-
-## 🚀 수상 경력
-- **금메달** : 인천지방기능경기대회 웹 디자인 및 개발 직종
-- **장려상** : 전국기능경기대회 웹 디자인 및 개발 직종
-
----
-
-## 🏢 경력 사항
-- **2023년 8월 ~ 현재** : 두나정보기술 소프트웨어 개발자
-
----
-## 🛠️ Skills
+## 👋 Hello! Welcome to My GitHub Profile
 
 ### Frontend
 <div style="display:flex; flex-direction:row; align="center;">
@@ -42,3 +25,23 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
+
+---
+
+## 수상 경력
+- **금메달** : 인천지방기능경기대회 웹 디자인 및 개발 직종
+- **장려상** : 전국기능경기대회 웹 디자인 및 개발 직종
+
+---
+
+## 경력 사항
+- **2023년 8월 ~ 현재** : 두나정보기술 소프트웨어 개발자
+
+---
+
+<!-- SVG 이미지 -->
+<!-- 
+<p align="center">  
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub Contributions" />
+</p>
+-->
