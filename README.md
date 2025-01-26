@@ -15,8 +15,3 @@
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub Contributions" />
 </p>
 -->
-
-<!-- 깃허브 커밋 확인 -->
-<!--
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TaeWoongYoun&theme=tokyonight&hide_border=%EA%B1%B0%EC%A7%93&short_numbers=%EA%B1%B0%EC%A7%93&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
--->
