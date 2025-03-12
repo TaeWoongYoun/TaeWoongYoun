@@ -6,12 +6,3 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TaeWoongYoun&theme=nord_dark" 
        style="width: 66%;" />
 </div>
-
-
-
-<!-- 3D차트 -->
-<!-- 
-<p align="center">  
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub Contributions" />
-</p>
--->
