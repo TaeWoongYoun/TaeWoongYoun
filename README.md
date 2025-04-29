@@ -1,4 +1,4 @@
-# 👋 Hello! Welcome to My GitHub Profile
+<!--# 👋 Hello! Welcome to My GitHub Profile-->
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TaeWoongYoun&theme=nord_dark&exclude=html" 
        style="width: 32%;" />
@@ -6,7 +6,7 @@
        style="width: 66%;" />
 </div>
 
-
+<!--
  ## 🚀 수상 경력
  - **금메달**: 인천지방기능경기대회 웹 디자인 및 개발 직종
  - **장려상**: 전국기능경기대회 웹 디자인 및 개발 직종
@@ -18,7 +18,6 @@
  
 ## 🛠️ Skills
 ### 🌐 Web Development
-<!-- 웹 개발 스킬: 프론트엔드 -->
 <div class="skill-badges">
   <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -28,7 +27,6 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
 </div>
 
-<!-- 웹 개발 스킬: 백엔드 & 데이터베이스 -->
 <div class="skill-badges">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white" alt="JSP">
@@ -39,8 +37,6 @@
 <br>
 
 ### 📊 기타 스킬
-<!-- 기타 스킬 -->
-<div class="skill-badges">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C언어-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C언어">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
@@ -59,3 +55,4 @@
  ## 🌱 About Me
  **"1일 1커밋을 목표로 성실히 성장하는 개발자입니다."**  
  프로젝트 관리, 웹 개발, AI 등 다양한 분야에 도전하고 있으며, 끊임없이 배우며 성장하고 있습니다.
+ -->
