@@ -5,9 +5,6 @@
        style="width: 66%;" />
 </div>
 
-<!-- 연속 커밋 스트릭 -->
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=TaeWoongYoun&theme=radical"/> -->
-
 ### 📚 자격증
 - **정보처리산업기사**: 2024.12 취득
 - **웹디자인기능사**: 2025.01 취득
@@ -30,3 +27,7 @@
 
 ### 🏢 경력
 - **(주)두나정보기술**: 2023.08 ~ 2025.01 도제 인턴 근무
+
+  <!-- 연속 커밋 스트릭 -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TaeWoongYoun&theme=radical"/>
+
