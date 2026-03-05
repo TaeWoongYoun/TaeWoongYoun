@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center; gap: 10px;">
+<!-- <div style="display: flex; align-items: center; gap: 10px;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TaeWoongYoun&theme=nord_dark&exclude=HTML,Jupyter%20Notebook,SCSS,CSS" 
      style="width: 32%;" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TaeWoongYoun&theme=nord_dark" 
@@ -33,7 +33,7 @@
 
 ### 📝 활동
 - **웹디자인 및 개발 전국기능경기대회 인천 강사** : 2025.08.04 ~ 2025.08.08
-- **인평자동차고 2025학년도 졸업생 멘토링 발자취 강사** : 2025.10.29
+- **인평자동차고 2025학년도 졸업생 멘토링 발자취 강사** : 2025.10.29 -->
 
   <!-- 연속 커밋 스트릭 -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TaeWoongYoun&theme=radical"/>
