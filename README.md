@@ -1,4 +1,4 @@
-  <!--
+  
   <div style="display: flex; align-items: center; gap: 10px;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TaeWoongYoun&theme=nord_dark&exclude=HTML,Jupyter%20Notebook,SCSS,CSS" 
      style="width: 32%;" />
@@ -6,6 +6,10 @@
        style="width: 66%;" />
 </div>
 
+  <!-- 연속 커밋 스트릭 -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TaeWoongYoun&theme=radical"/>
+
+<!--
 ### 📚 자격증
 - **정보처리산업기사**: 2024.12 취득
 - **웹디자인개발기능사**: 2025.01 취득
@@ -38,6 +42,5 @@
 - **2026년도 모바일 앱 개발 인천기능경기대회 강사** : 2026.03.15 ~ 2026.03.29 (주1회)
 - **인평자동차고 2025학년도 졸업생 멘토링 발자취 강사** : 2025.10.29 -->
 
-  <!-- 연속 커밋 스트릭 -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TaeWoongYoun&theme=radical"/>
+
 
