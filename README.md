@@ -268,8 +268,6 @@ SS · 9번
 - **2026년도 웹디자인 및 개발 전국기능경기대회 모의평가전(인천vs대구) 심사위원** : 2026.08.02 
 -->
 
-<!-- ==================== MY HAPPINESS ==================== -->
-
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TaeWoongYoun&theme=radical"/>
